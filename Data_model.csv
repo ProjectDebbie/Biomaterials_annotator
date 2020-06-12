@@ -5,7 +5,7 @@ Raw data,Abstract title,x,,,,,,,,,,,
 Raw data,Abstract text,x,,,,,,,,,,,
 Named entities,Biomaterial,,x,x,,,,,x,,,,
 Named entities,Biomaterial Types,,x,,,,,,,,,,
-Named entities,Biologically Active Substance,,x,x,,,,,,,,,
+Named entities,Biologically Active Substance,,x,x,x,,,,,,,,
 Named entities,Manufactured Object,,x,x,,,,,,,,,x
 Named entities,Manufactured Object Component,,x,,,,,,,,,,
 Named entities,Medical Application,,x,x,,,,,,,,,
