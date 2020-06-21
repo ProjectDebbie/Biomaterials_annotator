@@ -34,11 +34,11 @@ cd ..
 #rename jar
 mv nlp-gate-generic-component/target/nlp-gate-generic-component-0.0.1-SNAPSHOT-jar-with-dependencies.jar nlp-gate-generic-component-${MEDICAL_MATERIALS_TAGGER_VERSION}.jar
 
-cat > /usr/local/bin/medical-materials <<EOF
+cat > /usr/local/bin/biomaterials-annotator <<EOF
 #!/bin/sh
 exec java \$JAVA_OPTS -jar "${MEDICAL_MATERIALS_TAGGER_HOME}/nlp-gate-generic-component-${MEDICAL_MATERIALS_TAGGER_VERSION}.jar" -workdir "${MEDICAL_MATERIALS_TAGGER_HOME}" -l dictionaries/lists.def -j jape_rules/main.jape "\$@" 
 EOF
-chmod +x /usr/local/bin/medical-materials
+chmod +x /usr/local/bin/biomaterials-annotator
 
 #delete target, do not delete for now because it has the jape rules inside
 #rm -R nlp_generic_annotation
