@@ -15,6 +15,7 @@ The biomaterials annotator is a lexical resource for performing annotations on t
 9. [ONTOTOXNUC](https://bioportal.bioontology.org/ontologies/ONTOTOXNUC)
 10. [UBERON](https://bioportal.bioontology.org/ontologies/UBERON)
 11. [PREMEDONTO](https://bioportal.bioontology.org/ontologies/PREMEDONTO)
+12. [EDAM Bioimaging Ontology](https://bioportal.bioontology.org/ontologies/EDAM-BIOIMAGING)
 
 
 
