@@ -1,243 +1,243 @@
-immunoprécipitation	LABEL=ResearchTechnique
-immunology	LABEL=ResearchTechnique
-CP/MS	LABEL=ResearchTechnique
-coupling analysis	LABEL=ResearchTechnique
-AFM	LABEL=ResearchTechnique
-imagery	LABEL=ResearchTechnique
-atomic absorption	LABEL=ResearchTechnique
-elementary analysis	LABEL=ResearchTechnique
-analyse aux rayons X	LABEL=ResearchTechnique
-molecular analysis	LABEL=ResearchTechnique
-bioinformatics analysis	LABEL=ResearchTechnique
-data analysis	LABEL=ResearchTechnique
-comparative analysis in-silico	LABEL=ResearchTechnique
-tool	LABEL=ResearchTechnique
-speciation analysis	LABEL=ResearchTechnique
-differential proteomic analysis	LABEL=ResearchTechnique
-proteomics tool	LABEL=ResearchTechnique
-enzymatic analysis	LABEL=ResearchTechnique
-enzymological analysis	LABEL=ResearchTechnique
-histological analysis	LABEL=ResearchTechnique
-histology	LABEL=ResearchTechnique
-isotopic analysis	LABEL=ResearchTechnique
-differential metabolic analysis	LABEL=ResearchTechnique
-outil métabolomique	LABEL=ResearchTechnique
-analyse par alkylation	LABEL=ResearchTechnique
-outil de la biochimie	LABEL=ResearchTechnique
-analysis by reverse genetics	LABEL=ResearchTechnique
-outil génomique	LABEL=ResearchTechnique
-proteomic analysis by fluorescence	LABEL=ResearchTechnique
-analyse puces ADN	LABEL=ResearchTechnique
-statistical analysis	LABEL=ResearchTechnique
-metagenomic approach	LABEL=ResearchTechnique
-biacore	LABEL=ResearchTechnique
-bioindication	LABEL=ResearchTechnique
-bioluminescence	LABEL=ResearchTechnique
-biopuce	LABEL=ResearchTechnique
-biorémédiation	LABEL=ResearchTechnique
-rémédiation	LABEL=ResearchTechnique
-CATMA	LABEL=ResearchTechnique
-IC50	LABEL=ResearchTechnique
-outil de la biologie cellulaire	LABEL=ResearchTechnique
-CLHP-MS/MS	LABEL=ResearchTechnique
-chromatographie	LABEL=ResearchTechnique
-CZE	LABEL=ResearchTechnique
-capillary	LABEL=ResearchTechnique
-structural characterization	LABEL=ResearchTechnique
-crystallography	LABEL=ResearchTechnique
-chimiluminescence	LABEL=ResearchTechnique
-chimiométrie	LABEL=ResearchTechnique
-gas chromatography (GC)	LABEL=ResearchTechnique
-liquid chromatography	LABEL=ResearchTechnique
-nano-flow liquid chromatography	LABEL=ResearchTechnique
-enzyme kinetics	LABEL=ResearchTechnique
-cloning	LABEL=ResearchTechnique
-outil génetique	LABEL=ResearchTechnique
-co-immunoprécipitation	LABEL=ResearchTechnique
-histological section	LABEL=ResearchTechnique
-screening	LABEL=ResearchTechnique
-high-throughput screening	LABEL=ResearchTechnique
-in silico screening	LABEL=ResearchTechnique
-screening PDB	LABEL=ResearchTechnique
-two-dimensional crystallization	LABEL=ResearchTechnique
-three-dimensional crystallization	LABEL=ResearchTechnique
-electron crystallography	LABEL=ResearchTechnique
-culture organotypique	LABEL=ResearchTechnique
-flow cytometry	LABEL=ResearchTechnique
-cytotoxicité	LABEL=ResearchTechnique
-LD50	LABEL=ResearchTechnique
-DSC	LABEL=ResearchTechnique
-dégazage	LABEL=ResearchTechnique
-diagnostic clinique	LABEL=ResearchTechnique
-histological diagnosis	LABEL=ResearchTechnique
-isotope dilution	LABEL=ResearchTechnique
-dosimétrie	LABEL=ResearchTechnique
-two-hybrid	LABEL=ResearchTechnique
-EAO AOS	LABEL=ResearchTechnique
-ES/MS	LABEL=ResearchTechnique
-EXAFS	LABEL=ResearchTechnique
-electrochimie	LABEL=ResearchTechnique
-electrochromatography	LABEL=ResearchTechnique
-electrophorèse capillaire	LABEL=ResearchTechnique
-electrophorèse	LABEL=ResearchTechnique
-electrophorèse 2D	LABEL=ResearchTechnique
-gel electrophoresis	LABEL=ResearchTechnique
-electrophysiology	LABEL=ResearchTechnique
-physiology Tool	LABEL=ResearchTechnique
-émission x	LABEL=ResearchTechnique
-µPIXE	LABEL=ResearchTechnique
-etiquetage GFP	LABEL=ResearchTechnique
-etude cytogénétique	LABEL=ResearchTechnique
-study of interaction	LABEL=ResearchTechnique
-phenotypic study	LABEL=ResearchTechnique
-phylogenetic study	LABEL=ResearchTechnique
-topological study	LABEL=ResearchTechnique
-functional expression	LABEL=ResearchTechnique
-gene expression	LABEL=ResearchTechnique
-heterologous expression	LABEL=ResearchTechnique
-transient expression	LABEL=ResearchTechnique
-FISH	LABEL=ResearchTechnique
-FT-IR	LABEL=ResearchTechnique
-filtration	LABEL=ResearchTechnique
-fluorescence	LABEL=ResearchTechnique
-laser fluorescence	LABEL=ResearchTechnique
-fluorochrome	LABEL=ResearchTechnique
-flux isotopique	LABEL=ResearchTechnique
-Protein fractionation	LABEL=ResearchTechnique
-GC-MS	LABEL=ResearchTechnique
-GC-MS et ICP	LABEL=ResearchTechnique
-gamétogenèse	LABEL=ResearchTechnique
-gammamétrie	LABEL=ResearchTechnique
-radiochimie	LABEL=ResearchTechnique
-reverse genetics	LABEL=ResearchTechnique
-H2AX (test de réparation)	LABEL=ResearchTechnique
-HPLC	LABEL=ResearchTechnique
-HPLC-MS	LABEL=ResearchTechnique
-HPLC, capillary, nano	LABEL=ResearchTechnique
-hybridization	LABEL=ResearchTechnique
-hybridation génomique comparative	LABEL=ResearchTechnique
-northern hybridization	LABEL=ResearchTechnique
-ICP-AES	LABEL=ResearchTechnique
-ICP-MS	LABEL=ResearchTechnique
-ITC	LABEL=ResearchTechnique
-imagerie fonctionnelle du petit animal	LABEL=ResearchTechnique
-immunohistology	LABEL=ResearchTechnique
-immunochimie	LABEL=ResearchTechnique
-immunocytochimie	LABEL=ResearchTechnique
-immunofluorescence	LABEL=ResearchTechnique
-immunohistochimie	LABEL=ResearchTechnique
-immunopurification	LABEL=ResearchTechnique
-isotope-coded affinity tags (ICAT)	LABEL=ResearchTechnique
-KRYPTOR	LABEL=ResearchTechnique
-LC-MS	LABEL=ResearchTechnique
-LC-MS/MS	LABEL=ResearchTechnique
-LH	LABEL=ResearchTechnique
-logiciel PDQuest	LABEL=ResearchTechnique
-MALDI Q-TOF	LABEL=ResearchTechnique
-marquage	LABEL=ResearchTechnique
-marquage différentiel	LABEL=ResearchTechnique
-marquage isotopique différentiel	LABEL=ResearchTechnique
-mesure activité enzymatique	LABEL=ResearchTechnique
-mesure de phosphorylation	LABEL=ResearchTechnique
-métabolome	LABEL=ResearchTechnique
-méthode des comètes	LABEL=ResearchTechnique
-méthode SAGE	LABEL=ResearchTechnique
-méthode SCSA	LABEL=ResearchTechnique
-méthode TUNEL	LABEL=ResearchTechnique
-méthylation de l’ADN	LABEL=ResearchTechnique
-micro-spéciation 2D	LABEL=ResearchTechnique
-micro-spéciation 3D	LABEL=ResearchTechnique
-microdialysis	LABEL=ResearchTechnique
-photomicrograph	LABEL=ResearchTechnique
-microscopy	LABEL=ResearchTechnique
-microscopie à fluorescence	LABEL=ResearchTechnique
-microscopie à force atomique	LABEL=ResearchTechnique
-microscopie confocale	LABEL=ResearchTechnique
-microscopie électronique	LABEL=ResearchTechnique
-scanning electron microscopy (SEM)	LABEL=ResearchTechnique
-transmission electron microscopy (TEM)	LABEL=ResearchTechnique
-microscopie ionique	LABEL=ResearchTechnique
-nuclear microprobe	LABEL=ResearchTechnique
-minisatellite	LABEL=ResearchTechnique
-modélisation	LABEL=ResearchTechnique
-modélisation par homologie	LABEL=ResearchTechnique
-multifish	LABEL=ResearchTechnique
-random mutagenesis and insertional	LABEL=ResearchTechnique
-mutagenèse dirigée	LABEL=ResearchTechnique
-nanoCL	LABEL=ResearchTechnique
-northern blot	LABEL=ResearchTechnique
-outil anticorps	LABEL=ResearchTechnique
-outil bioinformatique	LABEL=ResearchTechnique
-transcriptomics tool	LABEL=ResearchTechnique
-PARP	LABEL=ResearchTechnique
-PCR	LABEL=ResearchTechnique
-genomic PCR	LABEL=ResearchTechnique
-PFGE (test de réparation)	LABEL=ResearchTechnique
-patch-clamp	LABEL=ResearchTechnique
-scanner d'animal	LABEL=ResearchTechnique
-phosphorescence	LABEL=ResearchTechnique
-phosphorylation	LABEL=ResearchTechnique
-photochimie	LABEL=ResearchTechnique
-phytorémédiation	LABEL=ResearchTechnique
-piégeage cryogénique	LABEL=ResearchTechnique
-promotor	LABEL=ResearchTechnique
-protéome	LABEL=ResearchTechnique
-protéomique différentielle	LABEL=ResearchTechnique
-puce ADN	LABEL=ResearchTechnique
-puce à oligonucléotides	LABEL=ResearchTechnique
-puce TC/COF	LABEL=ResearchTechnique
-Q-RT-PCR	LABEL=ResearchTechnique
-RBS	LABEL=ResearchTechnique
-RNAi	LABEL=ResearchTechnique
-RPE	LABEL=ResearchTechnique
-RT-PCR	LABEL=ResearchTechnique
-radiolysis	LABEL=ResearchTechnique
-radiothérapie	LABEL=ResearchTechnique
-recombinaison homologue	LABEL=ResearchTechnique
-réparation Base excision repair (BER)	LABEL=ResearchTechnique
-réparation nucleotide excision repair (NER)	LABEL=ResearchTechnique
-Résonance Magnétique Nucléaire (RMN)	LABEL=ResearchTechnique
-SILAC	LABEL=ResearchTechnique
-scanner de puce ADN	LABEL=ResearchTechnique
-séquençage	LABEL=ResearchTechnique
-séquençage nucléotidique	LABEL=ResearchTechnique
-sonde fluorescente	LABEL=ResearchTechnique
-spectrofluorimétrie	LABEL=ResearchTechnique
-spectrofluorimétrie laser	LABEL=ResearchTechnique
-spectrofluorimétrie laser à résolution temporelle (SLRT)	LABEL=ResearchTechnique
-spectrométrie de masse piège ionique (ITMS)	LABEL=ResearchTechnique
-spectrométrie optique	LABEL=ResearchTechnique
-spectrométrie (EDS)	LABEL=ResearchTechnique
-spectrophotométrie	LABEL=ResearchTechnique
-spectroscopy	LABEL=ResearchTechnique
-spectroscopie d’absorption X	LABEL=ResearchTechnique
-spectroscopy (NMR, UV-visible, EPR)	LABEL=ResearchTechnique
-spermatogenèse	LABEL=ResearchTechnique
-surexpression	LABEL=ResearchTechnique
-synchrotron	LABEL=ResearchTechnique
-synthèse organique	LABEL=ResearchTechnique
-synthèse peptidique rationnelle	LABEL=ResearchTechnique
-TILLING	LABEL=ResearchTechnique
-technique DIGE	LABEL=ResearchTechnique
-technique de marquage	LABEL=ResearchTechnique
-technique far-western	LABEL=ResearchTechnique
-technique immunologique	LABEL=ResearchTechnique
-technique pull-down	LABEL=ResearchTechnique
-technique séparative couplée	LABEL=ResearchTechnique
-test ATP	LABEL=ResearchTechnique
-test de phosphorylation	LABEL=ResearchTechnique
-transcription test	LABEL=ResearchTechnique
-thermoluminescence	LABEL=ResearchTechnique
-tomography	LABEL=ResearchTechnique
-tomographie moléculaire	LABEL=ResearchTechnique
-traitement du signal	LABEL=ResearchTechnique
-transcriptomics	LABEL=ResearchTechnique
-transfection	LABEL=ResearchTechnique
-transfert de gène	LABEL=ResearchTechnique
-transgénèse	LABEL=ResearchTechnique
-UV-VIS	LABEL=ResearchTechnique
-ultrafiltration	LABEL=ResearchTechnique
-vidéo-microscopie	LABEL=ResearchTechnique
-western blotting	LABEL=ResearchTechnique
-XANES	LABEL=ResearchTechnique
-µRBS	LABEL=ResearchTechnique
+immunoprécipitation	LABEL=ResearchTechnique	ID=ontoto.Immunoprecipitation	
+immunology	LABEL=ResearchTechnique	ID=onto_tox.Immunologie	
+CP/MS	LABEL=ResearchTechnique	ID=ontotoxnu.CP_FMS	
+coupling analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseParCouplage	
+AFM	LABEL=ResearchTechnique	ID=onto_tox.AFM	
+imagery	LABEL=ResearchTechnique	ID=onto_tox.Imagerie	
+atomic absorption	LABEL=ResearchTechnique	ID=onto_tox.AbsorptionAtomique	
+elementary analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseElementaire	
+analyse aux rayons X	LABEL=ResearchTechnique	ID=onto_tox.AnalyseAuxRayonX	
+molecular analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseMoleculaire	
+bioinformatics analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseBioinformatique	
+data analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseDeDonnees	
+comparative analysis in-silico	LABEL=ResearchTechnique	ID=onto_tox.AnalyseComparativeIn-silico	
+tool	LABEL=ResearchTechnique	ID=onto_tox.Outil	
+speciation analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseDeSpeciation	
+differential proteomic analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseDifferentielleProteomique	
+proteomics tool	LABEL=ResearchTechnique	ID=onto_tox.OutilProteomique	
+enzymatic analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseEnzymatique	
+enzymological analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseEnzymologique	
+histological analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseHistologique	
+histology	LABEL=ResearchTechnique	ID=onto_tox.Histologie	
+isotopic analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseIsotopique	
+differential metabolic analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseMetaboliqueDifferentielle	
+outil métabolomique	LABEL=ResearchTechnique	ID=onto_tox.OutilMetabolomique	
+analyse par alkylation	LABEL=ResearchTechnique	ID=onto_tox.AnalyseParAlkylation	
+outil de la biochimie	LABEL=ResearchTechnique	ID=onto_tox.OutilDeLaBiochimie	
+analysis by reverse genetics	LABEL=ResearchTechnique	ID=onto_tox.AnalyseParGenetiqueInverse	
+outil génomique	LABEL=ResearchTechnique	ID=onto_tox.OutilGenomique	
+proteomic analysis by fluorescence	LABEL=ResearchTechnique	ID=onto_tox.AnalyseProteomiqueParFluorescence	
+analyse puces ADN	LABEL=ResearchTechnique	ID=onto_tox.AnalysePucesADN	
+statistical analysis	LABEL=ResearchTechnique	ID=onto_tox.AnalyseStatistique	
+metagenomic approach	LABEL=ResearchTechnique	ID=onto_tox.ApprocheMetagenomique	
+biacore	LABEL=ResearchTechnique	ID=onto_tox.Biacore	
+bioindication	LABEL=ResearchTechnique	ID=onto_tox.Bioindication	
+bioluminescence	LABEL=ResearchTechnique	ID=onto_tox.Bioluminescence	
+biopuce	LABEL=ResearchTechnique	ID=onto_tox.Biopuce	
+biorémédiation	LABEL=ResearchTechnique	ID=onto_tox.Bioremediation	
+rémédiation	LABEL=ResearchTechnique	ID=onto_tox.Remediation	
+CATMA	LABEL=ResearchTechnique	ID=onto_tox.CATMA	
+IC50	LABEL=ResearchTechnique	ID=onto_tox.CI50	
+outil de la biologie cellulaire	LABEL=ResearchTechnique	ID=onto_tox.OutilDeLaBiologieCellulaire	
+CLHP-MS/MS	LABEL=ResearchTechnique	ID=onto_tox.CLHP-MS_MS	
+chromatographie	LABEL=ResearchTechnique	ID=onto_tox.Chromatographie	
+CZE	LABEL=ResearchTechnique	ID=onto_tox.CZE	
+capillary	LABEL=ResearchTechnique	ID=onto_tox.Capillaire	
+structural characterization	LABEL=ResearchTechnique	ID=onto_tox.CaracterisationStructurelle	
+crystallography	LABEL=ResearchTechnique	ID=onto_tox.Cristallographie	
+chimiluminescence	LABEL=ResearchTechnique	ID=onto_tox.Chimiluminescence	
+chimiométrie	LABEL=ResearchTechnique	ID=onto_tox.Chimiometrie	
+gas chromatography (GC)	LABEL=ResearchTechnique	ID=onto_tox.ChromatographieGazeuseCG	
+liquid chromatography	LABEL=ResearchTechnique	ID=onto_tox.ChromatographieLiquide	
+nano-flow liquid chromatography	LABEL=ResearchTechnique	ID=onto_tox.ChromatographieLiquideNano-debit	
+enzyme kinetics	LABEL=ResearchTechnique	ID=onto_tox.CinetiqueEnzymatique	
+cloning	LABEL=ResearchTechnique	ID=onto_tox.Clonage	
+outil génetique	LABEL=ResearchTechnique	ID=onto_tox.OutilGenetique	
+co-immunoprécipitation	LABEL=ResearchTechnique	ID=onto_tox.Co-immunoprecipitation	
+histological section	LABEL=ResearchTechnique	ID=onto_tox.CoupeHistologique	
+screening	LABEL=ResearchTechnique	ID=onto_tox.Criblage	
+high-throughput screening	LABEL=ResearchTechnique	ID=onto_tox.CriblageAhaut-debit	
+in silico screening	LABEL=ResearchTechnique	ID=onto_tox.CriblageInSilico	
+screening PDB	LABEL=ResearchTechnique	ID=onto_tox.CriblagePDB	
+two-dimensional crystallization	LABEL=ResearchTechnique	ID=onto_tox.CristallisationBidimensionnelle	
+three-dimensional crystallization	LABEL=ResearchTechnique	ID=onto_tox.CristallisationTridimensionnelle	
+electron crystallography	LABEL=ResearchTechnique	ID=onto_tox.CristallographieElectronique	
+culture organotypique	LABEL=ResearchTechnique	ID=onto_tox.CultureOrganotypique	
+flow cytometry	LABEL=ResearchTechnique	ID=onto_tox.CytometrieDeFlux	
+cytotoxicité	LABEL=ResearchTechnique	ID=onto_tox.Cytotoxicite	
+LD50	LABEL=ResearchTechnique	ID=onto_tox.DL50	
+DSC	LABEL=ResearchTechnique	ID=onto_tox.DSC	
+dégazage	LABEL=ResearchTechnique	ID=onto_tox.Degazage	
+diagnostic clinique	LABEL=ResearchTechnique	ID=onto_tox.DiagnosticClinique	
+histological diagnosis	LABEL=ResearchTechnique	ID=onto_tox.DiagnosticHistologique	
+isotope dilution	LABEL=ResearchTechnique	ID=onto_tox.DilutionIsotopique	
+dosimétrie	LABEL=ResearchTechnique	ID=onto_tox.Dosimetrie	
+two-hybrid	LABEL=ResearchTechnique	ID=onto_tox.DoubleHybride	
+EAO AOS	LABEL=ResearchTechnique	ID=onto_tox.EAO_AOS	
+ES/MS	LABEL=ResearchTechnique	ID=onto_tox.ES_MS	
+EXAFS	LABEL=ResearchTechnique	ID=onto_tox.EXAFS	
+electrochimie	LABEL=ResearchTechnique	ID=onto_tox.Electrochimie	
+electrochromatography	LABEL=ResearchTechnique	ID=onto_tox.Electrochromatographie	
+electrophorèse capillaire	LABEL=ResearchTechnique	ID=onto_tox.ElectrophoeseCapillaire	
+electrophorèse	LABEL=ResearchTechnique	ID=onto_tox.Electrophorese	
+electrophorèse 2D	LABEL=ResearchTechnique	ID=onto_tox.Electrophorese2D	
+gel electrophoresis	LABEL=ResearchTechnique	ID=onto_tox.ElectrophoreseSurGel	
+electrophysiology	LABEL=ResearchTechnique	ID=onto_tox.Electrophysiologie	
+physiology Tool	LABEL=ResearchTechnique	ID=onto_tox.OutilPhysiologique	
+émission x	LABEL=ResearchTechnique	ID=onto_tox.EmissionX	
+µPIXE	LABEL=ResearchTechnique	ID=onto_tox.µPIXE	
+etiquetage GFP	LABEL=ResearchTechnique	ID=onto_tox.EtiquetageGFP	
+etude cytogénétique	LABEL=ResearchTechnique	ID=onto_tox.EtudeCytogenetique	
+study of interaction	LABEL=ResearchTechnique	ID=onto_tox.EtudeDinteraction	
+phenotypic study	LABEL=ResearchTechnique	ID=onto_tox.EtudePhenotypique	
+phylogenetic study	LABEL=ResearchTechnique	ID=onto_tox.EtudePhylogenique	
+topological study	LABEL=ResearchTechnique	ID=onto_tox.EtudeTopologique	
+functional expression	LABEL=ResearchTechnique	ID=onto_tox.ExpressionFonctionnelle	
+gene expression	LABEL=ResearchTechnique	ID=onto_tox.ExpressionGenique	
+heterologous expression	LABEL=ResearchTechnique	ID=onto_tox.ExpressionHeterologue	
+transient expression	LABEL=ResearchTechnique	ID=onto_tox.ExpressionTransitoire	
+FISH	LABEL=ResearchTechnique	ID=onto_tox.FISH	
+FT-IR	LABEL=ResearchTechnique	ID=onto_tox.FT-IR	
+filtration	LABEL=ResearchTechnique	ID=onto_tox.Filtration	
+fluorescence	LABEL=ResearchTechnique	ID=onto_tox.Fluorescence	
+laser fluorescence	LABEL=ResearchTechnique	ID=onto_tox.FluorescenceLaser	
+fluorochrome	LABEL=ResearchTechnique	ID=onto_tox.Fluorochrome	
+flux isotopique	LABEL=ResearchTechnique	ID=onto_tox.FluxIsotopique	
+Protein fractionation	LABEL=ResearchTechnique	ID=onto_tox.FractionnementProteines	
+GC-MS	LABEL=ResearchTechnique	ID=onto_tox.GC-MS	
+GC-MS et ICP	LABEL=ResearchTechnique	ID=onto_tox.GC-MSEtICP	
+gamétogenèse	LABEL=ResearchTechnique	ID=onto_tox.Gameotogenese	
+gammamétrie	LABEL=ResearchTechnique	ID=onto_tox.Gammametrie	
+radiochimie	LABEL=ResearchTechnique	ID=onto_tox.Radiochimie	
+reverse genetics	LABEL=ResearchTechnique	ID=onto_tox.GenetiqueInverse	
+H2AX (test de réparation)	LABEL=ResearchTechnique	ID=onto_tox.H2AXTestDeReparation	
+HPLC	LABEL=ResearchTechnique	ID=onto_tox.HPLC	
+HPLC-MS	LABEL=ResearchTechnique	ID=onto_tox.HPLC-MS	
+HPLC, capillary, nano	LABEL=ResearchTechnique	ID=onto_tox.HPLCCapillaireNano	
+hybridization	LABEL=ResearchTechnique	ID=onto_tox.Hybridation	
+hybridation génomique comparative	LABEL=ResearchTechnique	ID=onto_tox.HybridationGenomiqueComparative	
+northern hybridization	LABEL=ResearchTechnique	ID=onto_tox.HydridationNorthern	
+ICP-AES	LABEL=ResearchTechnique	ID=onto_tox.ICP-AES	
+ICP-MS	LABEL=ResearchTechnique	ID=onto_tox.ICP-MS	
+ITC	LABEL=ResearchTechnique	ID=onto_tox.ITC	
+imagerie fonctionnelle du petit animal	LABEL=ResearchTechnique	ID=onto_tox.ImagerieFonctionnelleDuPetitAnimal	
+immunohistology	LABEL=ResearchTechnique	ID=onto_tox.Immuno-histologie	
+immunochimie	LABEL=ResearchTechnique	ID=onto_tox.Immunochimie	
+immunocytochimie	LABEL=ResearchTechnique	ID=onto_tox.Immunocytochimie	
+immunofluorescence	LABEL=ResearchTechnique	ID=onto_tox.Immunofluorescence	
+immunohistochimie	LABEL=ResearchTechnique	ID=onto_tox.Immunohistochimie	
+immunopurification	LABEL=ResearchTechnique	ID=onto_tox.Immunopurification	
+isotope-coded affinity tags (ICAT)	LABEL=ResearchTechnique	ID=onto_tox.Isotope-CodedAffinityTagsICAT	
+KRYPTOR	LABEL=ResearchTechnique	ID=onto_tox.KRYPTOR	
+LC-MS	LABEL=ResearchTechnique	ID=onto_tox.LC-MS	
+LC-MS/MS	LABEL=ResearchTechnique	ID=onto_tox.LC-MS_MS	
+LH	LABEL=ResearchTechnique	ID=onto_tox.LH	
+logiciel PDQuest	LABEL=ResearchTechnique	ID=onto_tox.LogicielPDQuest	
+MALDI Q-TOF	LABEL=ResearchTechnique	ID=onto_tox.MALDI_Q-TOF	
+marquage	LABEL=ResearchTechnique	ID=onto_tox.Marquage	
+marquage différentiel	LABEL=ResearchTechnique	ID=onto_tox.MarquageDifferentiel	
+marquage isotopique différentiel	LABEL=ResearchTechnique	ID=onto_tox.MarquageIsotopiqueDifferentiel	
+mesure activité enzymatique	LABEL=ResearchTechnique	ID=onto_tox.MesureActiviteEnzymatique	
+mesure de phosphorylation	LABEL=ResearchTechnique	ID=onto_tox.MesureDePhosphorylation	
+métabolome	LABEL=ResearchTechnique	ID=onto_tox.Metabolome	
+méthode des comètes	LABEL=ResearchTechnique	ID=onto_tox.MethodeDesCometes	
+méthode SAGE	LABEL=ResearchTechnique	ID=onto_tox.MethodeSAGE	
+méthode SCSA	LABEL=ResearchTechnique	ID=onto_tox.MethodeSCSA	
+méthode TUNEL	LABEL=ResearchTechnique	ID=onto_tox.MethodeTUNEL	
+méthylation de l’ADN	LABEL=ResearchTechnique	ID=onto_tox.MethylationDelADN	
+micro-spéciation 2D	LABEL=ResearchTechnique	ID=onto_tox.Micro-speciation2D	
+micro-spéciation 3D	LABEL=ResearchTechnique	ID=onto_tox.Micro-speciation3D	
+microdialysis	LABEL=ResearchTechnique	ID=onto_tox.Microdialyse	
+photomicrograph	LABEL=ResearchTechnique	ID=onto_tox.Microphotographie	
+microscopy	LABEL=ResearchTechnique	ID=onto_tox.Microscopie	
+microscopie à fluorescence	LABEL=ResearchTechnique	ID=onto_tox.MicroscopieAfluorescence	
+microscopie à force atomique	LABEL=ResearchTechnique	ID=onto_tox.MicroscopieAforceAtomique	
+microscopie confocale	LABEL=ResearchTechnique	ID=onto_tox.MicroscopieConfocale	
+microscopie électronique	LABEL=ResearchTechnique	ID=onto_tox.MicroscopieElectronique	
+scanning electron microscopy (SEM)	LABEL=ResearchTechnique	ID=onto_tox.MicroscopieElectroniqueAbalayageMEB	
+transmission electron microscopy (TEM)	LABEL=ResearchTechnique	ID=onto_tox.MicroscopieElectroniqueAtransmissionMET	
+microscopie ionique	LABEL=ResearchTechnique	ID=onto_tox.MicroscopieIonique	
+nuclear microprobe	LABEL=ResearchTechnique	ID=onto_tox.MicrosondeNucleaire	
+minisatellite	LABEL=ResearchTechnique	ID=onto_tox.Minisatellite	
+modélisation	LABEL=ResearchTechnique	ID=onto_tox.Modelisation	
+modélisation par homologie	LABEL=ResearchTechnique	ID=onto_tox.ModelisationParHomologie	
+multifish	LABEL=ResearchTechnique	ID=onto_tox.Multifish	
+random mutagenesis and insertional	LABEL=ResearchTechnique	ID=onto_tox.MutageneseAleatoireEtInsertionnelle	
+mutagenèse dirigée	LABEL=ResearchTechnique	ID=onto_tox.MutageneseDirigee	
+nanoCL	LABEL=ResearchTechnique	ID=onto_tox.NanoCL	
+northern blot	LABEL=ResearchTechnique	ID=onto_tox.NorthernBlot	
+outil anticorps	LABEL=ResearchTechnique	ID=onto_tox.OutilAnticorps	
+outil bioinformatique	LABEL=ResearchTechnique	ID=onto_tox.OutilBioinformatique	
+transcriptomics tool	LABEL=ResearchTechnique	ID=onto_tox.OutilTranscriptomique	
+PARP	LABEL=ResearchTechnique	ID=onto_tox.PARP	
+PCR	LABEL=ResearchTechnique	ID=onto_tox.PCR	
+genomic PCR	LABEL=ResearchTechnique	ID=onto_tox.PCRGenomique	
+PFGE (test de réparation)	LABEL=ResearchTechnique	ID=onto_tox.PFGETtestDeReparation	
+patch-clamp	LABEL=ResearchTechnique	ID=onto_tox.Patch-clamp	
+scanner d'animal	LABEL=ResearchTechnique	ID=onto_tox.Petscan	
+phosphorescence	LABEL=ResearchTechnique	ID=onto_tox.Phosphorescence	
+phosphorylation	LABEL=ResearchTechnique	ID=onto_tox.Phosphorylation	
+photochimie	LABEL=ResearchTechnique	ID=onto_tox.Photochimie	
+phytorémédiation	LABEL=ResearchTechnique	ID=onto_tox.Phytoremediation	
+piégeage cryogénique	LABEL=ResearchTechnique	ID=onto_tox.PiegeageCryogenique	
+promotor	LABEL=ResearchTechnique	ID=onto_tox.Promoteur	
+protéome	LABEL=ResearchTechnique	ID=onto_tox.Proteome	
+protéomique différentielle	LABEL=ResearchTechnique	ID=onto_tox.ProteomiqueDifferentielle	
+puce ADN	LABEL=ResearchTechnique	ID=onto_tox.PuceADN	
+puce à oligonucléotides	LABEL=ResearchTechnique	ID=onto_tox.PuceAoligonucleotides	
+puce TC/COF	LABEL=ResearchTechnique	ID=onto_tox.PuceTC-COF	
+Q-RT-PCR	LABEL=ResearchTechnique	ID=onto_tox.Q-RT-PCR	
+RBS	LABEL=ResearchTechnique	ID=onto_tox.RBS	
+RNAi	LABEL=ResearchTechnique	ID=onto_tox.RNAi	
+RPE	LABEL=ResearchTechnique	ID=onto_tox.RPE	
+RT-PCR	LABEL=ResearchTechnique	ID=onto_tox.RT-PCR	
+radiolysis	LABEL=ResearchTechnique	ID=onto_tox.Radiolyse	
+radiothérapie	LABEL=ResearchTechnique	ID=onto_tox.Radiotherapie	
+recombinaison homologue	LABEL=ResearchTechnique	ID=onto_tox.RecombinaisonHomologue	
+réparation Base excision repair (BER)	LABEL=ResearchTechnique	ID=onto_tox.ReparationBaseExcisionRepairBER	
+réparation nucleotide excision repair (NER)	LABEL=ResearchTechnique	ID=onto_tox.ReparationNucleotideExcisionRepairNER	
+Résonance Magnétique Nucléaire (RMN)	LABEL=ResearchTechnique	ID=onto_tox.ResonanceMagnetiqueNucleaireRMN	
+SILAC	LABEL=ResearchTechnique	ID=onto_tox.SILAC	
+scanner de puce ADN	LABEL=ResearchTechnique	ID=onto_tox.ScannerDePucesADN	
+séquençage	LABEL=ResearchTechnique	ID=onto_tox.Sequencage	
+séquençage nucléotidique	LABEL=ResearchTechnique	ID=onto_tox.SequencageNucleotidique	
+sonde fluorescente	LABEL=ResearchTechnique	ID=onto_tox.SondeFluorescente	
+spectrofluorimétrie	LABEL=ResearchTechnique	ID=onto_tox.Spectrofluorimetrie	
+spectrofluorimétrie laser	LABEL=ResearchTechnique	ID=onto_tox.SpectrofluorimetrieLaser	
+spectrofluorimétrie laser à résolution temporelle (SLRT)	LABEL=ResearchTechnique	ID=onto_tox.SpectrofluorimetrieLaserAresolutionTemporelleSLRT	
+spectrométrie de masse piège ionique (ITMS)	LABEL=ResearchTechnique	ID=onto_tox.SpectrometrieDeMassePiegeIoniqueITMS	
+spectrométrie optique	LABEL=ResearchTechnique	ID=onto_tox.SpectrometrieOptique	
+spectrométrie (EDS)	LABEL=ResearchTechnique	ID=onto_tox.SpectrometryEDS	
+spectrophotométrie	LABEL=ResearchTechnique	ID=onto_tox.Spectrophotometrie	
+spectroscopy	LABEL=ResearchTechnique	ID=onto_tox.Spectroscopie	
+spectroscopie d’absorption X	LABEL=ResearchTechnique	ID=onto_tox.SpectroscopieDabsorptionX	
+spectroscopy (NMR, UV-visible, EPR)	LABEL=ResearchTechnique	ID=onto_tox.SpectroscopieRMN_UV-visibleRPE	
+spermatogenèse	LABEL=ResearchTechnique	ID=onto_tox.Spermatogenese	
+surexpression	LABEL=ResearchTechnique	ID=onto_tox.Surexpression	
+synchrotron	LABEL=ResearchTechnique	ID=onto_tox.Synchrotron	
+synthèse organique	LABEL=ResearchTechnique	ID=onto_tox.SyntheseOrganique	
+synthèse peptidique rationnelle	LABEL=ResearchTechnique	ID=onto_tox.SynthesePeptidiqueRationnelle	
+TILLING	LABEL=ResearchTechnique	ID=onto_tox.TILLING	
+technique DIGE	LABEL=ResearchTechnique	ID=onto_tox.TechniqueDIGE	
+technique de marquage	LABEL=ResearchTechnique	ID=onto_tox.TechniqueDeMarquage	
+technique far-western	LABEL=ResearchTechnique	ID=onto_tox.TechniqueFar-western	
+technique immunologique	LABEL=ResearchTechnique	ID=onto_tox.TechniqueImmunologique	
+technique pull-down	LABEL=ResearchTechnique	ID=onto_tox.TechniquePull-down	
+technique séparative couplée	LABEL=ResearchTechnique	ID=onto_tox.TechniqueSeparativeCouplee	
+test ATP	LABEL=ResearchTechnique	ID=onto_tox.TestATP	
+test de phosphorylation	LABEL=ResearchTechnique	ID=onto_tox.TestDePhosphorylation	
+transcription test	LABEL=ResearchTechnique	ID=onto_tox.TestDeTranscription	
+thermoluminescence	LABEL=ResearchTechnique	ID=onto_tox.Thermoluminescence	
+tomography	LABEL=ResearchTechnique	ID=onto_tox.Tomographie	
+tomographie moléculaire	LABEL=ResearchTechnique	ID=onto_tox.TomographieMoleculaire	
+traitement du signal	LABEL=ResearchTechnique	ID=onto_tox.TraitementDuSignal	
+transcriptomics	LABEL=ResearchTechnique	ID=onto_tox.Transcriptome	
+transfection	LABEL=ResearchTechnique	ID=onto_tox.Transfection	
+transfert de gène	LABEL=ResearchTechnique	ID=onto_tox.TransfertDeGene	
+transgénèse	LABEL=ResearchTechnique	ID=onto_tox.Transgenese	
+UV-VIS	LABEL=ResearchTechnique	ID=onto_tox.UV-VIS	
+ultrafiltration	LABEL=ResearchTechnique	ID=onto_tox.Ultrafiltration	
+vidéo-microscopie	LABEL=ResearchTechnique	ID=onto_tox.Video-microscopie	
+western blotting	LABEL=ResearchTechnique	ID=onto_tox.WesternBlotting	
+XANES	LABEL=ResearchTechnique	ID=onto_tox.XANES	
+µRBS	LABEL=ResearchTechnique	ID=onto_tox.µRBS	
