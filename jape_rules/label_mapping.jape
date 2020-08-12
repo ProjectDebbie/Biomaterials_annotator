@@ -32,7 +32,7 @@ Rule: label_mapping
  	}
  	features.put("lemma",lemma.trim());
  	if(features.get("PrefSynonym")==null){
- 		features.put("PrefSynonym",lemma.trim());
+ 		features.put("PrefSynonym",lemma.trim().toLowerCase());
  	}
  	try{
 		outputAS.add(lookup.firstNode().getOffset(),lookup.lastNode().getOffset(), label, features);
