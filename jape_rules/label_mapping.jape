@@ -17,6 +17,7 @@ Rule: label_mapping
  	FeatureMap lookupFeatures = ann.getFeatures();
  	String label = lookupFeatures.get("LABEL").toString();
  	String source = lookupFeatures.get("minorType").toString();
+ 	
  	String content = stringFor(doc, ann);
  	gate.FeatureMap features = Factory.newFeatureMap();
 	features.put("text",content);
@@ -24,7 +25,16 @@ Rule: label_mapping
 	features.putAll(lookupFeatures);
 	features.remove("majorType");
  	features.remove("minorType");
-	try{
+	gate.AnnotationSet  tokens = outputAS.get("Token", ann.getStartNode().getOffset(), ann.getEndNode().getOffset());
+ 	String lemma = "";
+ 	for (Annotation token : tokens) {
+ 		lemma = lemma + " " + token.getFeatures().get("root").toString();
+ 	}
+ 	features.put("lemma",lemma.trim());
+ 	if(features.get("PrefSynonym")==null){
+ 		features.put("PrefSynonym",lemma.trim());
+ 	}
+ 	try{
 		outputAS.add(lookup.firstNode().getOffset(),lookup.lastNode().getOffset(), label, features);
 	}catch(InvalidOffsetException e){
 		throw new LuckyException(e);
