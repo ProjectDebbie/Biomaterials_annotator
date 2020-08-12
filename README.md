@@ -17,7 +17,16 @@ The biomaterials annotator is a lexical resource for performing annotations on t
 11. [PREMEDONTO](https://bioportal.bioontology.org/ontologies/PREMEDONTO)
 12. [EDAM Bioimaging Ontology](https://bioportal.bioontology.org/ontologies/EDAM-BIOIMAGING)
 
+## Actual Version: 1.0.1, 2020-08-12
+## [Changelog](https://github.com/ProjectDebbie/Biomaterials_annotator/blob/master/CHANGELOG) 
 
+## Docker
+
+projectdebbie/biomaterials-annotator
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ProjectDebbie/Biomaterials_annotator/tags). 
 
 ## Authors
 
