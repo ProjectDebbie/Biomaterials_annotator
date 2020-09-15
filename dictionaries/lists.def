@@ -9,4 +9,5 @@ obi.lst:OBI:OBI
 onto_tox.lst:ONTOTOX:ONTOTOX
 gmdn.lst:GMDN:GMDN
 edam.lst:EDAM:EDAM
+chmo.lst:CHMO:CHMO
 stop_words.lst:STOP_WORD:STOP_WORD
