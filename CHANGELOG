@@ -1,6 +1,9 @@
 
 # Change Log
 
+## Version 1.0.5, 2020-09-16
+add original lemma and lower case lemma
+
 ## Version 1.0.4, 2020-09-03
 fix error in lemma, ordered tokens.
 
