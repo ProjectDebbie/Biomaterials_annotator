@@ -32,7 +32,8 @@ Rule: label_mapping
 	for (Annotation token : tokensList) {
  	    lemma = lemma + " " + token.getFeatures().get("root").toString();
  	}
-        features.put("lemma",lemma.trim());
+	features.put("original_lemma",lemma.trim());
+        features.put("lemma",lemma.trim().toLowerCase());
  	if(features.get("PrefSynonym")==null){
  		features.put("PrefSynonym",lemma.trim().toLowerCase());
  	}else{
