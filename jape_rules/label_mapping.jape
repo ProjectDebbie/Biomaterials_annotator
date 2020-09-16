@@ -29,10 +29,12 @@ Rule: label_mapping
  	List<Annotation> tokensList = new ArrayList<Annotation>(tokens);
 	Collections.sort(tokensList, new gate.util.OffsetComparator());
 	String lemma = "";
+	String original_lemma = "";
 	for (Annotation token : tokensList) {
  	    lemma = lemma + " " + token.getFeatures().get("root").toString();
+	    original_lemma = original_lemma + " " + token.getFeatures().get("original_root").toString();
  	}
-	features.put("original_lemma",lemma.trim());
+ 	features.put("original_lemma",original_lemma.trim());
         features.put("lemma",lemma.trim().toLowerCase());
  	if(features.get("PrefSynonym")==null){
  		features.put("PrefSynonym",lemma.trim().toLowerCase());
