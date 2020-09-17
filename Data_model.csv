@@ -18,7 +18,7 @@ Named entities,Degradation Features,,x,,,,,,,,,,,,
 Named entities,Associated Biological Process ,,x,x,x,,,,,,,,,,
 Named entities,MaterialProcessing,,x,,,,,,,,,,,,x
 Named entities,Cell,,,x,x,,,x,,,,,,,
-Named entities,Animal Model,,,x,x,,,,,,,,,,
+Named entities,Species,,,x,x,,,,,,,,,,
 Named entities,Tissue,,,x,,,,x,,x,,,,,
 Named entities,Adverse Effects,,x,x,,,,,,,,,,,
 Named entities,Research Technique,,x,x,x,x,x,,,,x,x,,x,
