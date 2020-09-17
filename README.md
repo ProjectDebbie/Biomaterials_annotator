@@ -16,6 +16,7 @@ The biomaterials annotator is a lexical resource for performing annotations on t
 10. [UBERON](https://bioportal.bioontology.org/ontologies/UBERON)
 11. [PREMEDONTO](https://bioportal.bioontology.org/ontologies/PREMEDONTO)
 12. [EDAM Bioimaging Ontology](https://bioportal.bioontology.org/ontologies/EDAM-BIOIMAGING)
+13. [CHMO](https://bioportal.bioontology.org/ontologies/CHMO)
 
 ## Actual Version: 1.0.5, 2020-09-16
 ## [Changelog](https://github.com/ProjectDebbie/Biomaterials_annotator/blob/master/CHANGELOG) 
