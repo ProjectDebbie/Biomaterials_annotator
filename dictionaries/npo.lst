@@ -14,6 +14,10 @@ scanning transmission electron microscope	LABEL=ResearchTechnique	ID=npo-2011-12
 differential interference contrast microscope	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1455
 flow cytometer	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1769
 coagulometer	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1997
+cell-based assay	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1706
+cytoxicity assay	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1707
+cell viability assay	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1708
+LDH release assay	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1709
 hemocytometer	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1765
 dynamic light scattering instrument	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1766
 phase analysis light scattering instrument	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1767
@@ -27,4 +31,5 @@ zeta potential analyzer	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1
 capillary electrophoresis instrument	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1776
 energy dispersive spectrometer	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1777
 gel filtration column	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1778
+MTT assay	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1911
 centrifuge	LABEL=ResearchTechnique	ID=npo-2011-12-08_inferred.NPO_1999
