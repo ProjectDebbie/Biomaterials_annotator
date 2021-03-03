@@ -18,12 +18,9 @@ The biomaterials annotator is a lexical resource for performing annotations on t
 12. [EDAM Bioimaging Ontology](https://bioportal.bioontology.org/ontologies/EDAM-BIOIMAGING)
 13. [CHMO](https://bioportal.bioontology.org/ontologies/CHMO)
 
-## Actual Version: 1.0.6, 2020-09-17
+## Actual Version: 1.0, 2021-03-03
 ## [Changelog](https://github.com/ProjectDebbie/Biomaterials_annotator/blob/master/CHANGELOG) 
 
-## Docker
-
-projectdebbie/biomaterials-annotator
 
 ## Versioning
 
