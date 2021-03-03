@@ -1,9 +1,10 @@
 # Biomaterials annotator
+![BiomaterialsAnnotator](annotator_structure.png)
 
 The biomaterials annotator is a lexical resource for performing annotations on the biomaterials literature. It provides a schema for combining terms from mutiple ontologies and nomenclutures (listed below), a domain-specific stop-word list and priority rules for concept recognition in biomaterials abstracts using [GATE](https://gate.ac.uk/overview.html).   
 
 
-## Ontologies used for the annotations 
+## Ontologies used for the annotations
 1. [MESH (UMLS)](https://bioportal.bioontology.org/ontologies/MESH)
 2. [DEB](https://bioportal.bioontology.org/ontologies/DEB)
 3. [GMDN](https://www.gmdnagency.org/)
@@ -19,24 +20,18 @@ The biomaterials annotator is a lexical resource for performing annotations on t
 13. [CHMO](https://bioportal.bioontology.org/ontologies/CHMO)
 
 ## Actual Version: 1.0, 2021-03-03
-## [Changelog](https://github.com/ProjectDebbie/Biomaterials_annotator/blob/master/CHANGELOG) 
+## [Changelog](https://github.com/ProjectDebbie/Biomaterials_annotator/blob/master/CHANGELOG)
 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ProjectDebbie/Biomaterials_annotator/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ProjectDebbie/Biomaterials_annotator/tags).
 
 ## Authors
 
-**Osnat Hakimi, Javi Corvi** 
+**Osnat Hakimi, Javi Corvi**
 
 
 ## License
 
 This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details
-
-
-
-
-		
-		
