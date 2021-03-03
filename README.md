@@ -4,7 +4,7 @@
 The biomaterials annotator is a lexical resource for performing annotations on the biomaterials literature. It provides a schema for combining terms from mutiple ontologies and nomenclutures (listed below), a domain-specific stop-word list and priority rules for concept recognition in biomaterials abstracts using [GATE](https://gate.ac.uk/overview.html).   
 
 ## System architecture
-![](annotator_structure.png)
+![](Annotator_structure.png)
 
 ## Ontologies used for the annotations
 1. [MESH (UMLS)](https://bioportal.bioontology.org/ontologies/MESH)
