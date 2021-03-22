@@ -3,11 +3,13 @@ The Biomaterials Annotator: a system for ontology-based concept annotation of bi
 
 The Biomaterials Annotator is an ontology-based NER system that identifies biomaterial specific types of concepts. It provides a schema for combining terms from mutiple ontologies and nomenclutures that are listed below.  
 
-The Biomaterials Annotator has been implemented following a modular organization using software containers for the different components and orchestrated  using  Nextflow  as  workflow  manager. Natural language processing (NLP) components  are  mainly  developed  in  Java.
+The Biomaterials Annotator has been implemented following a modular organization using software containers for the different components and orchestrated  using  Nextflow  as  workflow  manager. Natural language processing (NLP) components  are  mainly  developed  in Java; and  it  uses  the Stanford CoreNLP Natural Language Processing open  source  toolkit and 
 
-An annotated biomaterial gold standard corpus of 1222 MEDLINE abstract, resulting from the execution of the Biomaterials Annotator is available and free to use at link.
+## Annotated corpus
+An biomaterial annotated gold standard corpus of 1222 MEDLINE abstract, describing the evaluation of of biomaterials in either a laboratory or clinical setting, resulting from the execution of the Biomaterials Annotator is available and free to use at link.
 
 Each abstract is individually contained as a separate file under the GATE format.
+
 ## System architecture
 ![](Annotator_structure.png)
 
