@@ -12,8 +12,13 @@ Each abstract is individually contained as a separate file under the GATE format
 ## Biomaterials Annotator Project Overview
 ![](Overview_Biomaterials_Annotator.png)
 
-## System architecture
+## System architecturesftp -o Port=2254 jcorvi@localhost
 ![](Annotator_structure.png)
+
+The Standard NLP preprocessing component is available at https://gitlab.bsc.es/inb/text-mining/generic-tools/nlp-standard-preprocessing
+The MSH Annotator, annotates relevant categories from the MeSH terminology; and the Dictionary Annotator, annotates the rest of predefined categories from the  and executes the Post-processing rules which include entity recognition based on lexical rules, removal of false positives and  abbreviations concept recognition, among other tasks. 
+
+The MSH Annotator is available at https://github.com/ProjectDebbie/debbie_umls_annotations; and the Dictionary Annotator and Post-processing rules are available at https://github.com/ProjectDebbie/DEBBIE_dictionaries_annotations. 
 
 ## Ontologies used for the annotations
 1. [MESH (UMLS)](https://bioportal.bioontology.org/ontologies/MESH)
@@ -30,9 +35,8 @@ Each abstract is individually contained as a separate file under the GATE format
 12. [EDAM Bioimaging Ontology](https://bioportal.bioontology.org/ontologies/EDAM-BIOIMAGING)
 13. [CHMO](https://bioportal.bioontology.org/ontologies/CHMO)
 
-The MSH Annotator, annotates relevant categories from the MeSH terminology; and the Dictionary Annotator, annotates the rest of predefined categories from the  and executes the Post-processing rules which include entity recognition based on lexical rules, removal of false positives and  abbreviations concept recognition, among other tasks. 
 
-The MSH Annotator is available at https://github.com/ProjectDebbie/debbie_umls_annotations; and the Dictionary Annotator and Post-processing rules are available at https://github.com/ProjectDebbie/DEBBIE_dictionaries_annotations. 
+
 
 ## Run the Biomaterials Annotator 
 
