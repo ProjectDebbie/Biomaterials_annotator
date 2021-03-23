@@ -54,7 +54,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-**Javi Corvi and Osnat Hakimi**
+**Javier Corvi and Osnat Hakimi**
 
 ## To cite the Biomaterials Annotator
 Add publication
