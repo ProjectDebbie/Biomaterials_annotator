@@ -1,0 +1,19 @@
+category,Precision - strict,Recall - strict,F-measure - strict,Precision - lenient,Recall - lenient,F-measure - lenient,Precision - average,Recall - average,F-measure - average
+BiologicallyActiveSubstance,0.58,0.43,0.49,0.7,0.52,0.59,0.64,0.48,0.54
+StudyType,0.96,0.95,0.96,0.99,0.97,0.98,0.98,0.96,0.97
+ManufacturedObjectComponent,0.91,0.84,0.86,0.91,0.84,0.87,0.91,0.84,0.87
+MaterialProcessing,0.78,0.6,0.67,0.83,0.63,0.71,0.81,0.61,0.69
+ResearchTechnique,0.81,0.63,0.71,0.87,0.68,0.76,0.84,0.66,0.73
+ManufacturedObjectFeatures,0.68,0.59,0.62,0.71,0.61,0.65,0.69,0.6,0.64
+Tissue,0.8,0.77,0.78,0.85,0.82,0.83,0.82,0.8,0.81
+BiomaterialType,0.92,0.88,0.9,0.98,0.93,0.95,0.95,0.9,0.92
+AssociatedBiologicalProcess,0.88,0.68,0.77,0.94,0.73,0.82,0.91,0.71,0.79
+MedicalApplication,0.68,0.49,0.57,0.82,0.6,0.69,0.75,0.54,0.63
+Biomaterial,0.76,0.47,0.57,0.83,0.52,0.63,0.79,0.49,0.6
+EffectOnBiologicalSystem,0.96,0.69,0.79,1,0.72,0.82,0.98,0.71,0.8
+Structure,0.93,0.77,0.84,0.95,0.79,0.86,0.94,0.78,0.85
+Species,0.97,0.79,0.87,0.99,0.81,0.89,0.98,0.8,0.88
+Cell,0.76,0.59,0.66,0.84,0.65,0.73,0.8,0.62,0.69
+AdverseEffects,0.94,0.75,0.82,1,0.8,0.87,0.97,0.77,0.85
+ManufacturedObject,0.96,0.86,0.9,0.96,0.86,0.9,0.96,0.86,0.9
+Global,0.84,0.6929411765,0.7517647059,0.8923529412,0.7341176471,0.7970588235,0.8658823529,0.7135294118,0.7741176471
