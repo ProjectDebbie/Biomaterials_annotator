@@ -3,6 +3,7 @@
 pipeline_version = 1.0
 
 log.info """
+This is the Biomaterials Annotator pipeline.
 The input directory is: ${params.inputDir}, Contains the files to be processed.
 Base directory to use: ${params.baseDir}, This directory is used together with the pipeline name (-name parameter) output the results.
 The output will be located at ${params.baseDir}.
@@ -36,17 +37,14 @@ params.folders = [
 	//Output directory for the umls tagger step
 	umls_output_folder: "${params.baseDir}/umls_output",
 	//Output directory for the umls tagger step
-	medical_materials_output_folder: "${params.baseDir}/medical_materials_output",
-	//Output directory for the post processing ades
-	gate_export_to_json_output_folder: "${params.baseDir}/gate_export_to_json_output"
+	debbie_dictionaries_output_folder: "${params.baseDir}/debbie_dictionaries_output"
 ]
 
 abstract_input_ch = Channel.fromPath( params.inputDir, type: 'dir' )
 
 nlp_standard_preprocessing_output_folder=file(params.folders.nlp_standard_preprocessing_output_folder)
 umls_output_folder=file(params.folders.umls_output_folder)
-medical_materials_output_folder=file(params.folders.medical_materials_output_folder)
-gate_export_to_json_output_folder=file(params.folders.gate_export_to_json_output_folder)
+debbie_dictionaries_output_folder=file(params.folders.debbie_dictionaries_output_folder)
 
 abstract_input_folder = params.general.inputDir
 
@@ -113,7 +111,7 @@ String parseElement(element){
     else 
     {
         if (element.value instanceof String || element.value instanceof GString ) 
-            return "\"" + element.key + "\": \"" + element.value +medical_materials_output_folder +"\""            
+            return "\"" + element.key + "\": \"" + element.value +debbie_dictionaries_output_folder+"\""            
 
         else if (element.value instanceof ArrayList)
         {
@@ -225,41 +223,25 @@ process debbie_umls_annotation {
 
     """
     exec >> $pipeline_log
-    echo "Start debbie_umls_annotation"
+    echo "Start biomaterial_umls_msh_annotation"
     debbie-umls-annotator -i $input_umls -o $umls_output_folder -a BSC -gt flexible -t 1
-    echo "End debbie_umls_annotation"
+    echo "End biomaterial_umls_msh_annotation"
     """
 }
 
-process debbie_onlology_annotation {
+process debbie_dictionary_annotation {
     input:
-    file input_medical_materials from umls_output_folder_ch
+    file input_debbie_dictionaries from umls_output_folder_ch
     output:
-    val medical_materials_output_folder into medical_materials_output_folder_ch
+    val debbie_dictionaries_output_folder into debbie_dictionaries_output_folder_ch
 
     """
     exec >> $pipeline_log
-    echo "Start debbie_onlology_annotation"
-    biomaterials-annotator -i $input_medical_materials -o $medical_materials_output_folder -a BSC -gt flexible -t 1
-    echo "End debbie_onlology_annotation"
+    echo "Start biomaterial_dictionary_annotation"
+    biomaterials-annotator -i $input_debbie_dictionaries -o $debbie_dictionaries_output_folder -a BSC -gt flexible -t 1
+    echo "End biomaterial_dictionary_annotation"
     """
 }
-
-process gate_to_json {
-    input:
-    file input_gate_to_json from medical_materials_output_folder_ch
-
-    output:
-    val gate_export_to_json_output_folder into gate_export_to_json_output_ch
-
-    """
-    exec >> $pipeline_log
-    echo "Start gate_to_json"
-    gate_to_json -i $input_gate_to_json -o $gate_export_to_json_output_folder
-    echo "End gate_to_json"
-    """
-}
-
 
 workflow.onComplete {
         println ("Workflow Done !!! ")
