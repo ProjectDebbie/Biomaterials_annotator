@@ -12,7 +12,7 @@ Each abstract is individually contained as a separate file under the GATE format
 ## Biomaterials Annotator Project Overview
 ![](Overview_Biomaterials_Annotator.png)
 
-## System architecturesftp -o Port=2254 jcorvi@localhost
+## System architecture
 ![](Annotator_structure.png)
 
 The Standard NLP preprocessing component is available at https://gitlab.bsc.es/inb/text-mining/generic-tools/nlp-standard-preprocessing
