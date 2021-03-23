@@ -28,7 +28,11 @@ Each abstract is individually contained as a separate file under the GATE format
 12. [EDAM Bioimaging Ontology](https://bioportal.bioontology.org/ontologies/EDAM-BIOIMAGING)
 13. [CHMO](https://bioportal.bioontology.org/ontologies/CHMO)
 
-## Actual Version: 1.0, 2021-03-03
+The MSH Annotator, annotates relevant categories from the MeSH terminology; the Dictionary Annotator, annotates the rest of predefined categories from the relevant dictionaries; and the Post-processing step in which specific rules were executed. These include entity recognition based on lexical rules and the removal of false positives, abbreviations concept recognitions and detection of concept using lexical rules, among other tasks. 
+
+The MSH Annotator is available at https://github.com/ProjectDebbie/debbie_umls_annotations; and the Dictionary Annotator and Post-processing rules are available at https://github.com/ProjectDebbie/DEBBIE_dictionaries_annotations. 
+
+## Actual Version: 1.0, 2021-03-23
 ## [Changelog](https://github.com/ProjectDebbie/Biomaterials_annotator/blob/master/CHANGELOG)
 
 
