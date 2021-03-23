@@ -36,7 +36,7 @@ The MSH Annotator is available at https://github.com/ProjectDebbie/debbie_umls_a
 
 ## Run the Biomaterials Annotator 
 
-You need to have docker and nextflow installed, then configure the run.sh file.
+You need to have docker and nextflow installed, then configure and the run.sh file.
 
 ## Actual Version: 1.0, 2021-03-23
 ## [Changelog](https://github.com/ProjectDebbie/Biomaterials_annotator/blob/master/CHANGELOG)
