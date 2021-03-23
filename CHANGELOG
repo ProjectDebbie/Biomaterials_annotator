@@ -1,7 +1,5 @@
 
 # Change Log
 
-## Version 1.0 2021-03-03
-Refactor the Biomaterials annotator project refers to the pipeline.
-To see information regarding the debbie dictionaries annotations please go to 
-https://github.com/ProjectDebbie/DEBBIE_dictionaries_annotations
+## Version 1.0 2021-03-23
+First Version of the Biomaterials Annotator
