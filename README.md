@@ -10,6 +10,9 @@ An biomaterial annotated gold standard corpus of 1222 MEDLINE abstract, describi
 
 Each abstract is individually contained as a separate file under the GATE format.
 
+## Biomaterials Annotator Project Overview
+![](Overview_Biomaterials_Annotator.png)
+
 ## System architecture
 ![](Annotator_structure.png)
 
