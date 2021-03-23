@@ -3,7 +3,7 @@ The Biomaterials Annotator: a system for ontology-based concept annotation of bi
 
 The Biomaterials Annotator is an ontology-based NER system that identifies biomaterial specific types of concepts. It provides a schema for combining terms from mutiple ontologies and nomenclutures. A full list of type of concepts annotated are available [here](Data_model.csv). 
 
-The global scores calculated for the system:  0.75 strict F-score, 0.79 lenient F-Score and 0.77 average F-score. All the results are available [here](Biomaterials_Annotator_Performance.csv).
+The global scores calculated for the system:  0.75 strict F-score, 0.79 lenient F-Score and 0.77 average F-score. The full results including metrics by category are available [here](Biomaterials_Annotator_Performance.csv).
 
 The Biomaterials Annotator has been implemented following a modular organization using software containers for the different components and orchestrated  using  Nextflow  as  workflow  manager. Natural language processing (NLP) components  are  mainly  developed  in Java; and  it  uses  the Stanford CoreNLP Natural Language Processing open  source toolkit. 
 
