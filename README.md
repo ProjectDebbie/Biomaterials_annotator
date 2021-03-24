@@ -1,14 +1,14 @@
 # Biomaterials annotator
 The Biomaterials Annotator: a system for ontology-based concept annotation of biomaterials text.
 
-The Biomaterials Annotator is an ontology-based NER system that identifies biomaterial specific types of concepts. It provides a schema for combining terms from mutiple ontologies and nomenclutures. A full list of type of concepts annotated are available [here](Data_model.csv). 
+The Biomaterials Annotator is an ontology-based NER system that identifies biomaterial concepts. It provides a schema for combining terms from mutiple ontologies, vocabularies and nomenclutures. A full list of the type of concepts annotated are available [here](Data_model.csv). 
 
-The global scores calculated for the system:  0.75 strict F-score, 0.79 lenient F-Score and 0.77 average F-score. The full results including metrics by category are available [here](Biomaterials_Annotator_Performance.csv).
+The global scores calculated for the system are:  0.75 strict F-score, 0.79 lenient F-Score and 0.77 average F-score. The full results including metrics by category are available [here](Biomaterials_Annotator_Performance.csv).
 
-The Biomaterials Annotator has been implemented following a modular organization using software containers for the different components and orchestrated  using  Nextflow  as  workflow  manager. Natural language processing (NLP) components  are  mainly  developed  in Java; and  it  uses  the Stanford CoreNLP Natural Language Processing open  source toolkit. 
+The Biomaterials Annotator has been implemented following a modular organization, using software containers for the different components. The pipeline is orchestrated using  Nextflow  as  workflow  manager. Natural language processing (NLP) components  were  mainly  developed  in Java, and it relying on the Stanford CoreNLP Natural Language Processing open source toolkit. 
 
 ## Annotated corpus
-An biomaterial annotated gold standard corpus of 1222 MEDLINE abstract, describing the evaluation of of biomaterials in either a laboratory or clinical setting, resulting from the execution of the Biomaterials Annotator is available and free to use at https://github.com/ProjectDebbie/Biomaterials_annotated_corpus.
+A biomaterials annotated gold standard corpus of 1222 MEDLINE abstracts resulting from the execution of the Biomaterials Annotator is available and free to use at https://github.com/ProjectDebbie/Biomaterials_annotated_corpus. The corpus contains articles describing the evaluation of biomaterials and medical devices in either a laboratory or clinical setting, 
 Each abstract is individually contained as a separate file under the GATE format.
 
 ## Biomaterials Annotator Project Overview
@@ -18,7 +18,7 @@ Each abstract is individually contained as a separate file under the GATE format
 ![](Annotator_structure.png)
 
 The Standard NLP preprocessing component is available at https://gitlab.bsc.es/inb/text-mining/generic-tools/nlp-standard-preprocessing
-The MSH Annotator, annotates relevant categories from the MeSH terminology; and the Dictionary Annotator, annotates the rest of predefined categories from the  and executes the Post-processing rules which include entity recognition based on lexical rules, removal of false positives and  abbreviations concept recognition, among other tasks. 
+The MSH Annotator annotates pre-selected categories from the MeSH terminology; and the Dictionary Annotator annotates does the same using manually collected ontologies and vocabularies. This is followed by execution of the Post-processing rules, including entity recognition based on lexical rules, removal of false positives and abbreviations concept recognition, among other tasks. 
 
 The MSH Annotator is available at https://github.com/ProjectDebbie/debbie_umls_annotations; and the Dictionary Annotator and Post-processing rules are available at https://github.com/ProjectDebbie/DEBBIE_dictionaries_annotations. 
 
