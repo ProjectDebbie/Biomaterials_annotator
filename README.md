@@ -64,7 +64,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 **Javier Corvi and Osnat Hakimi**
 
 ## To cite the Biomaterials Annotator
-Corvi, J., Fuentesl ́opez, C., Fern ́andez, J., Gelpi, J., Ginebra, M.-P.,Capella-Guitierrez, S., Hakimi, O.: The biomaterials annotator: a systemfor ontology-based concept annotation of biomaterials text. In:Proceedings of the Second Workshop on Scholarly DocumentProcessing, pp. 36–48. Association for Computational Linguistics,Online (2021). https://www.aclweb.org/anthology/2021.sdp-1.5
+Corvi, J., Fuenteslópez, C., Fernández, J., Gelpi, J., Ginebra, M.-P., Capella-Guitierrez, S., Hakimi, O.: The biomaterials annotator: a systemfor ontology-based concept annotation of biomaterials text. In:Proceedings of the Second Workshop on Scholarly DocumentProcessing, pp. 36–48. Association for Computational Linguistics,Online (2021). https://www.aclweb.org/anthology/2021.sdp-1.5
 
 [BibText](BibTexBiomaterialAnnotator.bib)
 
