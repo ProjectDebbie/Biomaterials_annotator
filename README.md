@@ -7,7 +7,7 @@ The global scores calculated for the system are:  0.75 strict F-score, 0.79 leni
 
 The Biomaterials Annotator has been implemented following a modular organization, using software containers for the different components. The pipeline is orchestrated using  Nextflow  as  workflow  manager. Natural language processing (NLP) components  were  mainly  developed  in Java, and it relying on the Stanford CoreNLP Natural Language Processing open source toolkit. 
 
-
+DEBBIE is available at https://debbie.bsc.es/search/. For more information about DEBBIE please visit the documantetion site at https://projectdebbie.github.io/
 
 ## Annotated corpus
 A biomaterials annotated gold standard corpus of 1222 MEDLINE abstracts resulting from the execution of the Biomaterials Annotator is available and free to use at https://github.com/ProjectDebbie/Biomaterials_annotated_corpus. The corpus contains articles describing the evaluation of biomaterials and medical devices in either a laboratory or clinical setting, 
